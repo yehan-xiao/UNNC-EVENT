@@ -1,0 +1,62 @@
+@CHARSET "UTF-8";
+/*This css is available to login page and register page*/
+/*Common*/
+body{
+	background-color:#443A62;
+	font-family: Novecento, "Microsoft YaHei";
+}
+
+/*Login Page*/
+
+.welcome_title{
+	font-size:large; 
+	color:#FFF; 
+	text-align:center; 
+	padding-top: 105px; 
+}
+.loginBox{
+background-color:#443A62;
+padding:10px; 
+}	
+.loginForm {
+	width: 280px;
+	margin-top: 50px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 35px;
+	background-color:#fff;
+	border-radius: 10px;
+}
+input{
+	color:#443A62;
+	
+}
+
+.formInfo {
+
+	height: 25px;
+	width: 275px;
+	border: 2px solid #9999cc;
+	border-radius: 5px;
+	font-weight: bold;
+}
+
+.LoginButton {
+	background-color: #99cc00;
+	color: white;
+	font-size: 15px;
+	font-weight: bold;
+	width: 278px;
+	height: 30px;
+	border: 2px solid #99cc00;
+	border-radius: 5px;
+}
+
+.footer {
+	line-height:24px; 
+	padding:50px 0;
+	font-size: xx-small;
+	font-style: italic;
+	text-align: center;
+	color: #9999cc;
+}
